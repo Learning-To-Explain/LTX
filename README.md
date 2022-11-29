@@ -4,9 +4,7 @@ We present 'Learning To Explain' (LTX) - a novel method for producing explanatio
 
 
 
-<img src="C:\Users\asher\OneDrive\Documents\Data Science Degree\Tesis\LTX\images\2_classes_vis_github.png" alt="2_classes_vis_github" style="zoom:8%;" />
-
-
+<img src="images\2_classes_vis_github.png" alt="2_classes_vis_github" style="zoom:8%;" />
 
 
 
