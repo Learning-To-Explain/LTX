@@ -4,9 +4,9 @@ We present 'Learning To Explain' (LTX) - a novel method for producing explanatio
 
 
 
-<img src="images\2_classes_vis_github.png" alt="2_classes_vis_github" style="zoom:8%;" />
+<img src="images\2_classes_vis_github.png" alt="2_classes_vis_github" width="200" height="150"/>
 
-<img src="images\single_object_vis_github.png" alt="single_object_vis_github" style="hight:200px;width:200px" />
+<img src="images\single_object_vis_github.png" alt="single_object_vis_github" width="150" height="300" />
 
 
 ## Reproducing results on ViT-Base & ViT-Small - Pertubations Metrics
