@@ -58,5 +58,3 @@ CUDA_VISIBLE_DEVICES=0 PYTHONPATH=./:$PYTHONPATH python3 ./main/segmentation_eva
 
 
 
-
- [2_classes_vis_github.pdf](..\Explainability NLP\explainablity-transformer\research\Analysis\final_selection_images\paper\selected\2 classes\ours\github\2_classes_vis_github.pdf) 
