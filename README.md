@@ -2,7 +2,13 @@
 
 We present 'Learning To Explain' (LTX) - a novel method for producing explanations by learning explanation masks. The LTX framework introduces an explainer-explainee model, in which the explainer learns to explain and justify the explainee's predictions. We demonstrate LTX's ability to produce explanations for ViT models, where it significantly outperforms state-of-the-art alternatives on multiple explanations and segmentation tests. 
 
-  [2_classes_demo.pdf](images\2_classes_demo.pdf) 
+
+
+<img src="C:\Users\asher\OneDrive\Documents\Data Science Degree\Tesis\LTX\images\2_classes_vis_github.png" alt="2_classes_vis_github" style="zoom:8%;" />
+
+
+
+
 
 
 ## Reproducing results on ViT-Base & ViT-Small - Pertubations Metrics
