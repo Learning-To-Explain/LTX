@@ -13,9 +13,7 @@ We present the ‘learning to explain’ (LTX) explanation framework- a novel me
 - Download `checkpoints.zip` from https://drive.google.com/file/d/1syOvmnXFgMsIgu-10LNhm0pHDs2oo1gm/
 - unzip classifier.zip -d ./checkpoints/ (after unzipping, the checkpointes should be in the corresponding folders based on the backbone's type (`vit_base` / `vit_small`))
 
-These checkpoints are important for reproducing the results, also, the paths and the ViT `model_name` in the config file should be edited based on the running environment.
-
-All explanation metrics can be calculated using the mask files created during the LTX procedure.
+These checkpoints are important for reproducing the results. All explanation metrics can be calculated using the mask files created during the LTX procedure.
 
 ### Evaluations
 
