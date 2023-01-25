@@ -20,7 +20,6 @@ import h5py
 import numpy as np
 from icecream import ic
 import gc
-
 device = torch.device('cuda')
 USE_MASK = True
 

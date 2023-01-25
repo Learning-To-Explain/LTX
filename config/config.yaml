@@ -1,8 +1,8 @@
 general:
   gpu_index: 0
   seed: 42
-  wandb_project:
-  wandb_entity:
+  wandb_project: ""
+  wandb_entity: ""
 vit:
   train_images_path: train_data
   val_images_path: val_data
@@ -26,8 +26,8 @@ vit:
   freeze_classification_head: False
   batch_size: 32
   default_root_dir:
-  plot_path:
-  experiments_path:
+  plot_path: ""
+  experiments_path: ""
   enable_checkpointing: False
   start_epoch_to_evaluate: 1
   n_batches_to_visualize: 1
